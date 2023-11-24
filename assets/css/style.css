@@ -16,6 +16,7 @@ html, body {
 
 .main-side {
     margin-left: 250px;
+    margin-top: 40px;
 }
 
 .list-item {
@@ -61,3 +62,17 @@ html, body {
     margin-bottom: 20px;
 }
 
+.story-img {
+    width: 56px;
+    height:56px;
+}
+
+.post-container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.post {
+    width: 460px;
+    height: 580px;
+}
